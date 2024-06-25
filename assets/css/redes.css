@@ -29,6 +29,21 @@ header{
 
 }
 
+.logo{
+    font-size: 2rem;
+    color: black;
+  }
+  
+  nav a{
+    font-weight: 600;
+    padding-right: 10px;
+    color: black;
+  }
+  
+  nav a:hover{
+    font-size: 1.5rem;
+    color: #808080
+  }
 
 
 
