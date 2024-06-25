@@ -28,3 +28,27 @@ header{
   justify-content: space-between;
 
 }
+
+
+
+
+
+
+
+
+footer{
+    padding: 30px 30px 30px 30px;
+  }
+  .container-foot p{
+    display: flex;
+    justify-content: center;
+  }
+  .img{
+    width:25px ;
+    height: 25px;
+  }
+  
+  .imgs{
+    display: flex;
+    justify-content: center;
+  }
