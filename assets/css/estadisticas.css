@@ -45,6 +45,36 @@ header{
     color: #808080
   }
 
+  .tabla{
+    margin: 100px 0 100px 40px;
+    display: flex;
+  }
+  
+  table,th,td{
+    border: 2px solid;
+    text-align: center;
+    
+  }
+  
+  table{
+    border-collapse: collapse;
+    width: 1400px;
+  
+  }
+  th,td{
+    padding:5px;
+    font-size: 4vw;
+    padding: 0 50px 0 50px;
+  }
+  th{
+    background-color: #ccc7c7;
+    
+  }
+  .texto{
+    margin: 100px 0 0 40px;
+    font-size: 2vw;
+  }
+
 
   
   footer{
