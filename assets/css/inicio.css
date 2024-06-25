@@ -45,7 +45,21 @@ header{
     color: #808080
   }
 
-
+  .titulo{
+    display: flex;
+    margin: 80px 0 30px 60px;
+    font-size: 1.5vw;
+  
+  }
+  .titulo .p1{
+    color: #808080;
+  }
+  
+  .foto{
+    width: 450px;
+    border-radius: 15px;
+    margin: 30px 0 0 250px;
+  }
 
 
 
